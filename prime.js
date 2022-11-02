@@ -1,4 +1,4 @@
-let Number = 15;
+
 let count=0;
 for (let i=1; i<=Number; i++)
 {
