@@ -1,6 +1,6 @@
-
+let number=11;
 let count=0;
-for (let i=i; i<Number; i++)
+for (let i=1; i<=Number; i++)
 {
     if(Number%i==0)
     {
